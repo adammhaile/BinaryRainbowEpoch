@@ -1,0 +1,21 @@
+<mm_project serial_port="COM5" board="Arduino Duemilanove w/ ATmega328" programmer="" includePaths="" libPaths="" libs="" default="yes" useCodeAutomation="yes" linkPrintfVersion="1" serialPortSpeed="" >
+  <files>
+    <file name="BinaryRainbowEpochClock_main.cpp" open="yes" />
+    <file name="binaryrainbowepochclock_main.h" open="no" />
+    <file name="TimerOne.cpp" open="no" />
+    <file name="LPD8806.cpp" open="no" />
+    <file name="TimerOne.h" open="no" />
+    <file name="LPD8806.h" open="no" />
+    <file name="RTClib.h" open="yes" />
+    <file name="RTClib.cpp" open="no" />
+    <file name="twi.c" open="no" />
+    <file name="twi.h" open="no" />
+    <file name="colortable.h" open="no" />
+  </files>
+  <extras>
+  </extras>
+  <externals>
+    <external name="C:\Program Files (x86)\arduino\libraries\SPI\SPI.cpp" />
+    <external name="C:\Program Files (x86)\arduino\libraries\Wire\Wire.cpp" />
+  </externals>
+</mm_project>
